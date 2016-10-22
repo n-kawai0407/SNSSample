@@ -34,5 +34,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>プログラム練習に使用します。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>プログラム練習に使用します。</string>
 </dict>
 </plist>
